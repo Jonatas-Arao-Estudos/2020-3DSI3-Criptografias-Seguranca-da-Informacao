@@ -1,0 +1,11 @@
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\3DSI3\Segurança\Atividade 1\Windows Form\Criptografias\obj\Debug\Criptografias.csprojAssemblyReference.cache
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\3DSI3\Segurança\Atividade 1\Windows Form\Criptografias\obj\Debug\Criptografias.Properties.Resources.resources
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\3DSI3\Segurança\Atividade 1\Windows Form\Criptografias\obj\Debug\Criptografias.csproj.GenerateResource.cache
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\3DSI3\Segurança\Atividade 1\Windows Form\Criptografias\obj\Debug\Criptografias.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\3DSI3\Segurança\Atividade 1\Windows Form\Criptografias\bin\Debug\Criptografias.exe.config
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\3DSI3\Segurança\Atividade 1\Windows Form\Criptografias\bin\Debug\Criptografias.exe
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\3DSI3\Segurança\Atividade 1\Windows Form\Criptografias\bin\Debug\Criptografias.pdb
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\3DSI3\Segurança\Atividade 1\Windows Form\Criptografias\obj\Debug\Criptografias.Criptografia.resources
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\3DSI3\Segurança\Atividade 1\Windows Form\Criptografias\obj\Debug\Criptografias.exe
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\3DSI3\Segurança\Atividade 1\Windows Form\Criptografias\obj\Debug\Criptografias.pdb
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\3DSI3\Segurança\Atividade 1\Windows Form\Criptografias\obj\Debug\Criptografias.Resultado.resources
