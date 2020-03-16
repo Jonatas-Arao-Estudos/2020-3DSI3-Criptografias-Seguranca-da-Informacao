@@ -44,9 +44,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CifraCesar.cs" />
-    <Compile Include="Criptografia.cs" />
+    <Compile Include="CifraVigenere.cs" />
+    <Compile Include="Palavra.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ZenitPolar.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
